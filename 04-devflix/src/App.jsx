@@ -10,7 +10,7 @@ const App = () => {
   const [movies, setMovies] = useState([]);
 
   //Utilizando chave de API do arquivo .env
-  const apiKey = "e4d577fa";
+  const apiKey = "e4d577";
   const apiUrl = `https://omdbapi.com/?apikey=${apiKey}`;
 
   //Alimentando com dados para não ficar nulo com useEffect
@@ -58,7 +58,7 @@ const App = () => {
       )}
 
       <Footer
-        devName={" Ana Souza"}
+        devName={" Ana Katsumata"}
         devLink={"https://github.com/anasouza-senai"}
       />
     </div>
