@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHCTmOewVEI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sesi3\\Desktop\\I3DS-2025-main\\06-devChat\\ChatServer\\ChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sesi3\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\Sesi3\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
